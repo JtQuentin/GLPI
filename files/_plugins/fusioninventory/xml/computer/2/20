@@ -1,0 +1,2328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<REQUEST>
+  <CONTENT>
+    <ACCESSLOG>
+      <LOGDATE>2017-12-22 08:34:42</LOGDATE>
+    </ACCESSLOG>
+    <ANTIVIRUS>
+      <ENABLED>1</ENABLED>
+      <GUID>{D68DDC3A-831F-4fae-9E44-DA132C1ACF46}</GUID>
+      <NAME>Windows Defender</NAME>
+      <UPTODATE>1</UPTODATE>
+    </ANTIVIRUS>
+    <BIOS>
+      <ASSETTAG>CZC6229QZ8.</ASSETTAG>
+      <BDATE>04/07/2016</BDATE>
+      <BMANUFACTURER>HP</BMANUFACTURER>
+      <BVERSION>N02 Ver. 02.10</BVERSION>
+      <MMANUFACTURER>HP</MMANUFACTURER>
+      <MMODEL>805D</MMODEL>
+      <MSN>PETKD0DD6196NK</MSN>
+      <SKUNUMBER>L1Q38AV</SKUNUMBER>
+      <SMANUFACTURER>HP</SMANUFACTURER>
+      <SMODEL>HP ProDesk 600 G2 MT</SMODEL>
+      <SSN>CZC6229QZ8</SSN>
+    </BIOS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H SATA controller [AHCI mode]</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H SATA controller [AHCI mode]</NAME>
+      <PCISUBSYSTEMID>103c:805d</PCISUBSYSTEMID>
+      <PRODUCTID>a102</PRODUCTID>
+      <TYPE>Standard SATA AHCI Controller</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H USB 3.0 xHCI Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H USB 3.0 xHCI Controller</NAME>
+      <PCISUBSYSTEMID>103c:805d</PCISUBSYSTEMID>
+      <PRODUCTID>a12f</PRODUCTID>
+      <TYPE>Contrôleur hôte Intel(R) USB 3.0 eXtensible - 1.0 (Microsoft)</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor Host Bridge/DRAM Registers</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor Host Bridge/DRAM Registers</NAME>
+      <PCISUBSYSTEMID>103c:805d</PCISUBSYSTEMID>
+      <PRODUCTID>191f</PRODUCTID>
+      <TYPE>PCI standard host CPU bridge</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>HD Graphics 530</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>HD Graphics 530</NAME>
+      <PCISUBSYSTEMID>103c:805d</PCISUBSYSTEMID>
+      <PRODUCTID>1912</PRODUCTID>
+      <TYPE>Intel(R) HD Graphics 530</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H SMBus</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H SMBus</NAME>
+      <PCISUBSYSTEMID>103c:805d</PCISUBSYSTEMID>
+      <PRODUCTID>a123</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Series Chipset Family SMBus - A123</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Cape Verde/Pitcairn HDMI Audio [Radeon HD 7700/7800 Series]</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>Cape Verde/Pitcairn HDMI Audio [Radeon HD 7700/7800 Series]</NAME>
+      <PCISUBSYSTEMID>103c:aab0</PCISUBSYSTEMID>
+      <PRODUCTID>aab0</PRODUCTID>
+      <TYPE>High Definition Audio Controller</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H KT Redirection</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H KT Redirection</NAME>
+      <PCISUBSYSTEMID>103c:805d</PCISUBSYSTEMID>
+      <PRODUCTID>a13d</PRODUCTID>
+      <TYPE>Intel(R) Active Management Technology - SOL (COM3)</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H Thermal subsystem</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H Thermal subsystem</NAME>
+      <PCISUBSYSTEMID>103c:805d</PCISUBSYSTEMID>
+      <PRODUCTID>a131</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Series Chipset Family Thermal subsystem - A131</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H HD Audio</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H HD Audio</NAME>
+      <PCISUBSYSTEMID>103c:805d</PCISUBSYSTEMID>
+      <PRODUCTID>a170</PRODUCTID>
+      <TYPE>High Definition Audio Controller</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor PCIe Controller (x16)</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Xeon E3-1200 v5/E3-1500 v5/6th Gen Core Processor PCIe Controller (x16)</NAME>
+      <PCISUBSYSTEMID>103c:805d</PCISUBSYSTEMID>
+      <PRODUCTID>1901</PRODUCTID>
+      <TYPE>PCI Express Root Port</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H CSME HECI #1</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H CSME HECI #1</NAME>
+      <PCISUBSYSTEMID>103c:805d</PCISUBSYSTEMID>
+      <PRODUCTID>a13a</PRODUCTID>
+      <TYPE>Intel(R) Management Engine Interface </TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Venus LE [Radeon HD 8830M]</CAPTION>
+      <MANUFACTURER>Advanced Micro Devices, Inc. [AMD/ATI]</MANUFACTURER>
+      <NAME>Venus LE [Radeon HD 8830M]</NAME>
+      <PCISUBSYSTEMID>103c:2b51</PCISUBSYSTEMID>
+      <PRODUCTID>682b</PRODUCTID>
+      <TYPE>AMD Radeon (TM) R9 350</TYPE>
+      <VENDORID>1002</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H LPC Controller</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H LPC Controller</NAME>
+      <PCISUBSYSTEMID>103c:805d</PCISUBSYSTEMID>
+      <PRODUCTID>a147</PRODUCTID>
+      <TYPE>PCI standard ISA bridge</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Ethernet Connection (2) I219-LM</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Ethernet Connection (2) I219-LM</NAME>
+      <PCISUBSYSTEMID>103c:805d</PCISUBSYSTEMID>
+      <PRODUCTID>15b7</PRODUCTID>
+      <TYPE>Intel(R) Ethernet Connection (2) I219-LM</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CONTROLLERS>
+      <CAPTION>Sunrise Point-H PMC</CAPTION>
+      <MANUFACTURER>Intel Corporation</MANUFACTURER>
+      <NAME>Sunrise Point-H PMC</NAME>
+      <PCISUBSYSTEMID>103c:805d</PCISUBSYSTEMID>
+      <PRODUCTID>a121</PRODUCTID>
+      <TYPE>Intel(R) 100 Series/C230 Series Chipset Family PMC - A121</TYPE>
+      <VENDORID>8086</VENDORID>
+    </CONTROLLERS>
+    <CPUS>
+      <CORE>4</CORE>
+      <DESCRIPTION>Intel64 Family 6 Model 94 Stepping 3</DESCRIPTION>
+      <FAMILYNUMBER>6</FAMILYNUMBER>
+      <ID>E3 06 05 00 FF FB EB BF</ID>
+      <MANUFACTURER>Intel</MANUFACTURER>
+      <MODEL>94</MODEL>
+      <NAME>Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz</NAME>
+      <SERIAL>ToBeFilledByO.E.M.</SERIAL>
+      <SPEED>3400</SPEED>
+      <STEPPING>3</STEPPING>
+      <THREAD>8</THREAD>
+    </CPUS>
+    <DRIVES>
+      <DESCRIPTION>Disque monté local</DESCRIPTION>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>288957</FREE>
+      <LABEL/>
+      <LETTER>C:</LETTER>
+      <SERIAL>3E1688FF</SERIAL>
+      <SYSTEMDRIVE>1</SYSTEMDRIVE>
+      <TOTAL>476437</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN/>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Disque CD-ROM</DESCRIPTION>
+      <LETTER>D:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Compact Disc</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <DESCRIPTION>Disque CD-ROM</DESCRIPTION>
+      <LETTER>E:</LETTER>
+      <SYSTEMDRIVE/>
+      <TYPE>Compact Disc</TYPE>
+    </DRIVES>
+    <DRIVES>
+      <FILESYSTEM>NTFS</FILESYSTEM>
+      <FREE>465</FREE>
+      <LABEL>Réservé au système</LABEL>
+      <LETTER>Réservé au système</LETTER>
+      <SERIAL>C214C7B0</SERIAL>
+      <SYSTEMDRIVE/>
+      <TOTAL>499</TOTAL>
+      <TYPE>Local Disk</TYPE>
+      <VOLUMN>Réservé au système</VOLUMN>
+    </DRIVES>
+    <ENVS>
+      <KEY>ComSpec</KEY>
+      <VAL>%SystemRoot%\system32\cmd.exe</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>OS</KEY>
+      <VAL>Windows_NT</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>Path</KEY>
+      <VAL>C:\Program Files\Python36\Scripts\;C:\Program Files\Python36\;%SystemRoot%\system32;%SystemRoot%;%SystemRoot%\System32\Wbem;%SYSTEMROOT%\System32\WindowsPowerShell\v1.0\</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PATHEXT</KEY>
+      <VAL>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC;.PY;.PYW</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_ARCHITECTURE</KEY>
+      <VAL>AMD64</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PSModulePath</KEY>
+      <VAL>%ProgramFiles%\WindowsPowerShell\Modules;%SystemRoot%\system32\WindowsPowerShell\v1.0\Modules</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TEMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>TMP</KEY>
+      <VAL>%SystemRoot%\TEMP</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>USERNAME</KEY>
+      <VAL>SYSTEM</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>windir</KEY>
+      <VAL>%SystemRoot%</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>NUMBER_OF_PROCESSORS</KEY>
+      <VAL>8</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_LEVEL</KEY>
+      <VAL>6</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_IDENTIFIER</KEY>
+      <VAL>Intel64 Family 6 Model 94 Stepping 3, GenuineIntel</VAL>
+    </ENVS>
+    <ENVS>
+      <KEY>PROCESSOR_REVISION</KEY>
+      <VAL>5e03</VAL>
+    </ENVS>
+    <FIREWALL>
+      <PROFILE>StandardProfile</PROFILE>
+      <STATUS>on</STATUS>
+    </FIREWALL>
+    <FIREWALL>
+      <DESCRIPTION>Hyper-V Virtual Ethernet Adapter</DESCRIPTION>
+      <IPADDRESS>172.16.0.142</IPADDRESS>
+      <PROFILE>DomainProfile</PROFILE>
+      <STATUS>on</STATUS>
+    </FIREWALL>
+    <FIREWALL>
+      <DESCRIPTION>Hyper-V Virtual Ethernet Adapter</DESCRIPTION>
+      <IPADDRESS6>fe80::9de2:b92b:53fc:f16c</IPADDRESS6>
+      <PROFILE>DomainProfile</PROFILE>
+      <STATUS>on</STATUS>
+    </FIREWALL>
+    <FIREWALL>
+      <PROFILE>PublicProfile</PROFILE>
+      <STATUS>on</STATUS>
+    </FIREWALL>
+    <HARDWARE>
+      <ARCHNAME>MSWin32-x64-multi-thread</ARCHNAME>
+      <CHASSIS_TYPE>Desktop</CHASSIS_TYPE>
+      <CHECKSUM>512</CHECKSUM>
+      <DEFAULTGATEWAY>172.16.0.129</DEFAULTGATEWAY>
+      <DNS>172.16.0.10</DNS>
+      <ETIME>9</ETIME>
+      <IPADDR>172.16.0.142</IPADDR>
+      <LASTLOGGEDUSER>vstanislas</LASTLOGGEDUSER>
+      <MEMORY>16264</MEMORY>
+      <NAME>r108p17</NAME>
+      <OSNAME>Microsoft Windows 10 Éducation N</OSNAME>
+      <OSVERSION>10.0.15063</OSVERSION>
+      <PROCESSORN>1</PROCESSORN>
+      <PROCESSORS>3400</PROCESSORS>
+      <PROCESSORT>Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz</PROCESSORT>
+      <USERID>vstanislas</USERID>
+      <UUID>087C771D-299F-11E6-9C43-BC0000220000</UUID>
+      <VMSYSTEM>Physical</VMSYSTEM>
+      <WINLANG>1036</WINLANG>
+      <WINOWNER>Utilisateur Windows</WINOWNER>
+      <WINPRODID>00328-70492-00803-AA185</WINPRODID>
+      <WORKGROUP>sio.jjr</WORKGROUP>
+    </HARDWARE>
+    <INPUTS>
+      <CAPTION>Étendu (101 ou 102 touches)</CAPTION>
+      <DESCRIPTION>USB Input Device</DESCRIPTION>
+      <LAYOUT>0000040C</LAYOUT>
+      <NAME>Étendu (101 ou 102 touches)</NAME>
+    </INPUTS>
+    <INPUTS>
+      <CAPTION>USB Input Device</CAPTION>
+      <DESCRIPTION>USB Input Device</DESCRIPTION>
+      <INTERFACE>USB</INTERFACE>
+      <MANUFACTURER>(Standard system devices)</MANUFACTURER>
+      <NAME>USB Input Device</NAME>
+      <POINTINGTYPE>2</POINTINGTYPE>
+    </INPUTS>
+    <LICENSEINFOS>
+      <COMPONENTS>Access/Excel/Groove/InfoPath/InterConnect/OneNote/Outlook/OutlookStandard/PowerPoint/Project/Publisher/SharePointDesigner/Visio/VisioSDK/WebDesigner/Word</COMPONENTS>
+      <FULLNAME>Microsoft Office Professional Plus 2007</FULLNAME>
+      <KEY>KGFVY-7733B-8WCK9-KTG64-BC7D8</KEY>
+      <NAME>Microsoft Office</NAME>
+      <OEM>1</OEM>
+      <PRODUCTID>89409-707-1528066-65798</PRODUCTID>
+      <UPDATE>SP3</UPDATE>
+    </LICENSEINFOS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-544</ID>
+      <NAME>Administrateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-578</ID>
+      <NAME>Administrateurs Hyper-V</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-552</ID>
+      <NAME>Duplicateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-568</ID>
+      <NAME>IIS_IUSRS</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-546</ID>
+      <NAME>Invités</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-573</ID>
+      <NAME>Lecteurs des journaux d’événements</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-579</ID>
+      <NAME>Opérateurs d'assistance de contrôle d'accès</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-569</ID>
+      <NAME>Opérateurs de chiffrement</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-556</ID>
+      <NAME>Opérateurs de configuration réseau</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-551</ID>
+      <NAME>Opérateurs de sauvegarde</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-581</ID>
+      <NAME>System Managed Accounts Group</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-545</ID>
+      <NAME>Utilisateurs</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-547</ID>
+      <NAME>Utilisateurs avec pouvoir</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-580</ID>
+      <NAME>Utilisateurs de gestion à distance</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-558</ID>
+      <NAME>Utilisateurs de l’Analyseur de performances</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-555</ID>
+      <NAME>Utilisateurs du Bureau à distance</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-559</ID>
+      <NAME>Utilisateurs du journal de performances</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_GROUPS>
+      <ID>S-1-5-32-562</ID>
+      <NAME>Utilisateurs du modèle COM distribué</NAME>
+    </LOCAL_GROUPS>
+    <LOCAL_USERS>
+      <ID>S-1-5-21-3733304770-3471266761-2840206131-1001</ID>
+      <NAME>adminSio</NAME>
+    </LOCAL_USERS>
+    <MEMORIES>
+      <CAPACITY>8192</CAPACITY>
+      <CAPTION>DIMM1</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>Unknown - [0x9B85]</MANUFACTURER>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>1</NUMSLOTS>
+      <SERIALNUMBER>A71598FE</SERIALNUMBER>
+      <SPEED>2133</SPEED>
+      <TYPE>DDR4</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>DIMM2</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>2</NUMSLOTS>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPACITY>8192</CAPACITY>
+      <CAPTION>DIMM3</CAPTION>
+      <DESCRIPTION>DIMM</DESCRIPTION>
+      <MANUFACTURER>Unknown - [0x9B85]</MANUFACTURER>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>3</NUMSLOTS>
+      <SERIALNUMBER>A6260A25</SERIALNUMBER>
+      <SPEED>2133</SPEED>
+      <TYPE>DDR4</TYPE>
+    </MEMORIES>
+    <MEMORIES>
+      <CAPTION>DIMM4</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <MEMORYCORRECTION>None</MEMORYCORRECTION>
+      <NUMSLOTS>4</NUMSLOTS>
+    </MEMORIES>
+    <MONITORS>
+      <ALTSERIAL>BB138</ALTSERIAL>
+      <BASE64>AP///////wAebctacuAFAAYZAQNsKRd46tAlolhVnCgPUFSnagAxT0VPYU+BwAEBAQEBAQEBZiFWqlEAHjBGjzMAmuYQAAAeAAAA/QA4Sx49CQAKICAgICAgAAAA/ABMRyBIRAogICAgICAgAAAA/wA1MDZOVFlUQkIxMzgKADM=</BASE64>
+      <CAPTION>LG HD</CAPTION>
+      <DESCRIPTION>6/2015</DESCRIPTION>
+      <MANUFACTURER>Goldstar Company Ltd</MANUFACTURER>
+      <NAME>Generic PnP Monitor</NAME>
+      <PORT>VGA</PORT>
+      <SERIAL>506NTYTBB138</SERIAL>
+      <TYPE>Generic PnP Monitor</TYPE>
+    </MONITORS>
+    <MONITORS>
+      <ALTSERIAL>BB130</ALTSERIAL>
+      <BASE64>AP///////wAebctaauAFAAYZAQSlKRd44tAlolhVnCgPUFSnagAxT0VPYU+BwAEBAQEBAQEBZiFWqlEAHjBGjzMAmuYQAAAeAAAA/QA4Sx49CQAKICAgICAgAAAA/ABMRyBIRAogICAgICAgAAAA/wA1MDZOVFhSQkIxMzAKABQ=</BASE64>
+      <CAPTION>LG HD</CAPTION>
+      <DESCRIPTION>6/2015</DESCRIPTION>
+      <MANUFACTURER>Goldstar Company Ltd</MANUFACTURER>
+      <PORT>DisplayPort</PORT>
+      <SERIAL>506NTXRBB130</SERIAL>
+    </MONITORS>
+    <NETWORKS>
+      <DESCRIPTION>Intel(R) Ethernet Connection (2) I219-LM</DESCRIPTION>
+      <MACADDR>94:57:A5:EC:01:60</MACADDR>
+      <PCIID>8086:15B7:805D:103C</PCIID>
+      <PNPDEVICEID>PCI\VEN_8086&amp;DEV_15B7&amp;SUBSYS_805D103C&amp;REV_31\3&amp;11583659&amp;0&amp;FE</PNPDEVICEID>
+      <STATUS>Down</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Hyper-V Virtual Ethernet Adapter</DESCRIPTION>
+      <IPADDRESS>172.16.0.142</IPADDRESS>
+      <IPDHCP>172.16.0.11</IPDHCP>
+      <IPGATEWAY>172.16.0.129</IPGATEWAY>
+      <IPMASK>255.255.255.128</IPMASK>
+      <IPSUBNET>172.16.0.128</IPSUBNET>
+      <MACADDR>94:57:A5:EC:01:60</MACADDR>
+      <PNPDEVICEID>ROOT\VMS_MP\0000</PNPDEVICEID>
+      <SPEED>1000</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <NETWORKS>
+      <DESCRIPTION>Hyper-V Virtual Ethernet Adapter</DESCRIPTION>
+      <IPADDRESS6>fe80::9de2:b92b:53fc:f16c</IPADDRESS6>
+      <IPMASK6>ffff:ffff:ffff:ffff::</IPMASK6>
+      <IPSUBNET6>fe80::</IPSUBNET6>
+      <MACADDR>94:57:A5:EC:01:60</MACADDR>
+      <PNPDEVICEID>ROOT\VMS_MP\0000</PNPDEVICEID>
+      <SPEED>1000</SPEED>
+      <STATUS>Up</STATUS>
+      <TYPE>ethernet</TYPE>
+      <VIRTUALDEV>0</VIRTUALDEV>
+    </NETWORKS>
+    <OPERATINGSYSTEM>
+      <ARCH>64-bit</ARCH>
+      <BOOT_TIME>2017-12-19 08:36:08</BOOT_TIME>
+      <DNS_DOMAIN>sio.jjr</DNS_DOMAIN>
+      <FQDN>r108p17.sio.jjr</FQDN>
+      <FULL_NAME>Microsoft Windows 10 Éducation N</FULL_NAME>
+      <INSTALL_DATE>2017-07-03 11:26:53</INSTALL_DATE>
+      <KERNEL_NAME>MSWin32</KERNEL_NAME>
+      <KERNEL_VERSION>10.0.15063</KERNEL_VERSION>
+      <NAME>Windows</NAME>
+      <SERVICE_PACK/>  <TIMEZONE>
+        <NAME>Europe/Paris</NAME>
+        <OFFSET>+0100</OFFSET>
+      </TIMEZONE>
+    </OPERATINGSYSTEM>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>PS/2</DESCRIPTION>
+      <NAME>PS2</NAME>
+      <TYPE>Keyboard Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS/2</CAPTION>
+      <DESCRIPTION>PS/2</DESCRIPTION>
+      <NAME>PS2</NAME>
+      <TYPE>Mouse Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-9 male</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>VGA/COMA</NAME>
+      <TYPE>Serial Port 16550A Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-9 male</CAPTION>
+      <DESCRIPTION>Proprietary</DESCRIPTION>
+      <NAME>COMB</NAME>
+      <TYPE>Serial Port 16550A Compatible</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DB-15 female</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>VGA/COMA</NAME>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Other</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>DisplayPort</NAME>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Other</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>DisplayPort</NAME>
+      <TYPE>Video Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>RJ-45</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>RJ45/USB</NAME>
+      <TYPE>Network Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini DIN</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>FRONT AUD</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini DIN</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>FRONT AUD</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>SPKR</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini DIN</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>IN/OUT</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Mini DIN</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>IN/OUT</NAME>
+      <TYPE>Audio Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>Proprietary</DESCRIPTION>
+      <NAME>FRONT USB</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>Proprietary</DESCRIPTION>
+      <NAME>FRONT USB</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>Proprietary</DESCRIPTION>
+      <NAME>FRONT USB 3.0</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>Proprietary</DESCRIPTION>
+      <NAME>FRONT USB 3.0</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>RJ45/USB</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Access Bus (USB)</CAPTION>
+      <DESCRIPTION>None</DESCRIPTION>
+      <NAME>RJ45/USB</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Proprietary</DESCRIPTION>
+      <NAME>MEDIA</NAME>
+      <TYPE>USB</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SAS/SATA Plug Receptacle</CAPTION>
+      <DESCRIPTION>SAS/SATA Plug Receptacle</DESCRIPTION>
+      <NAME>Ctrl0Port0</NAME>
+      <TYPE>SATA</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SAS/SATA Plug Receptacle</CAPTION>
+      <DESCRIPTION>SAS/SATA Plug Receptacle</DESCRIPTION>
+      <NAME>Ctrl0Port1</NAME>
+      <TYPE>SATA</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SAS/SATA Plug Receptacle</CAPTION>
+      <DESCRIPTION>SAS/SATA Plug Receptacle</DESCRIPTION>
+      <NAME>Ctrl0Port2</NAME>
+      <TYPE>SATA</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>PWR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>PWRCPU</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>SATAPWR0</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>CHFAN2</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>CPUFAN</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Other</DESCRIPTION>
+      <NAME>PWRCMD</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Proprietary</DESCRIPTION>
+      <NAME>PB/LED</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Proprietary</DESCRIPTION>
+      <NAME>HLCK</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>None</CAPTION>
+      <DESCRIPTION>Proprietary</DESCRIPTION>
+      <NAME>HSNR</NAME>
+      <TYPE>Keyboard Port</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Intel(R) Active Management Technology - SOL (COM3)</CAPTION>
+      <DESCRIPTION>Intel(R) Active Management Technology - SOL</DESCRIPTION>
+      <NAME>Intel(R) Active Management Technology - SOL (COM3)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Port de communication (COM1)</CAPTION>
+      <DESCRIPTION>Port de communication</DESCRIPTION>
+      <NAME>Port de communication (COM1)</NAME>
+      <TYPE>Serial</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS2</CAPTION>
+      <DESCRIPTION>PS2</DESCRIPTION>
+      <NAME>PS2</NAME>
+      <TYPE>PS/2, PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PS2</CAPTION>
+      <DESCRIPTION>PS2</DESCRIPTION>
+      <NAME>PS2</NAME>
+      <TYPE>PS/2, PS/2</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>VGA/COMA</CAPTION>
+      <DESCRIPTION>VGA/COMA</DESCRIPTION>
+      <NAME>VGA/COMA</NAME>
+      <TYPE>DB-9, Male</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>COMB</CAPTION>
+      <DESCRIPTION>COMB</DESCRIPTION>
+      <NAME>COMB</NAME>
+      <TYPE>DB-9, Male, Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>VGA/COMA</CAPTION>
+      <DESCRIPTION>VGA/COMA</DESCRIPTION>
+      <NAME>VGA/COMA</NAME>
+      <TYPE>DB-15, Female</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DisplayPort</CAPTION>
+      <DESCRIPTION>DisplayPort</DESCRIPTION>
+      <NAME>DisplayPort</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>DisplayPort</CAPTION>
+      <DESCRIPTION>DisplayPort</DESCRIPTION>
+      <NAME>DisplayPort</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>RJ45/USB</CAPTION>
+      <DESCRIPTION>RJ45/USB</DESCRIPTION>
+      <NAME>RJ45/USB</NAME>
+      <TYPE>RJ45</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>FRONT AUD</CAPTION>
+      <DESCRIPTION>FRONT AUD</DESCRIPTION>
+      <NAME>FRONT AUD</NAME>
+      <TYPE>Mini-DIN</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>FRONT AUD</CAPTION>
+      <DESCRIPTION>FRONT AUD</DESCRIPTION>
+      <NAME>FRONT AUD</NAME>
+      <TYPE>Mini-DIN</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SPKR</CAPTION>
+      <DESCRIPTION>SPKR</DESCRIPTION>
+      <NAME>SPKR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>IN/OUT</CAPTION>
+      <DESCRIPTION>IN/OUT</DESCRIPTION>
+      <NAME>IN/OUT</NAME>
+      <TYPE>Mini-DIN</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>IN/OUT</CAPTION>
+      <DESCRIPTION>IN/OUT</DESCRIPTION>
+      <NAME>IN/OUT</NAME>
+      <TYPE>Mini-DIN</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>FRONT USB</CAPTION>
+      <DESCRIPTION>FRONT USB</DESCRIPTION>
+      <NAME>FRONT USB</NAME>
+      <TYPE>Access.bus, Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>FRONT USB</CAPTION>
+      <DESCRIPTION>FRONT USB</DESCRIPTION>
+      <NAME>FRONT USB</NAME>
+      <TYPE>Access.bus, Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>FRONT USB 3.0</CAPTION>
+      <DESCRIPTION>FRONT USB 3.0</DESCRIPTION>
+      <NAME>FRONT USB 3.0</NAME>
+      <TYPE>Access.bus, Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>FRONT USB 3.0</CAPTION>
+      <DESCRIPTION>FRONT USB 3.0</DESCRIPTION>
+      <NAME>FRONT USB 3.0</NAME>
+      <TYPE>Access.bus, Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB</CAPTION>
+      <DESCRIPTION>USB</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB</CAPTION>
+      <DESCRIPTION>USB</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB</CAPTION>
+      <DESCRIPTION>USB</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>USB</CAPTION>
+      <DESCRIPTION>USB</DESCRIPTION>
+      <NAME>USB</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>RJ45/USB</CAPTION>
+      <DESCRIPTION>RJ45/USB</DESCRIPTION>
+      <NAME>RJ45/USB</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>RJ45/USB</CAPTION>
+      <DESCRIPTION>RJ45/USB</DESCRIPTION>
+      <NAME>RJ45/USB</NAME>
+      <TYPE>Access.bus</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>MEDIA</CAPTION>
+      <DESCRIPTION>MEDIA</DESCRIPTION>
+      <NAME>MEDIA</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Ctrl0Port0</CAPTION>
+      <DESCRIPTION>Ctrl0Port0</DESCRIPTION>
+      <NAME>Ctrl0Port0</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Ctrl0Port1</CAPTION>
+      <DESCRIPTION>Ctrl0Port1</DESCRIPTION>
+      <NAME>Ctrl0Port1</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>Ctrl0Port2</CAPTION>
+      <DESCRIPTION>Ctrl0Port2</DESCRIPTION>
+      <NAME>Ctrl0Port2</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PWR</CAPTION>
+      <DESCRIPTION>PWR</DESCRIPTION>
+      <NAME>PWR</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PWRCPU</CAPTION>
+      <DESCRIPTION>PWRCPU</DESCRIPTION>
+      <NAME>PWRCPU</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>SATAPWR0</CAPTION>
+      <DESCRIPTION>SATAPWR0</DESCRIPTION>
+      <NAME>SATAPWR0</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>CHFAN2</CAPTION>
+      <DESCRIPTION>CHFAN2</DESCRIPTION>
+      <NAME>CHFAN2</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>CPUFAN</CAPTION>
+      <DESCRIPTION>CPUFAN</DESCRIPTION>
+      <NAME>CPUFAN</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PWRCMD</CAPTION>
+      <DESCRIPTION>PWRCMD</DESCRIPTION>
+      <NAME>PWRCMD</NAME>
+      <TYPE>Unknown</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>PB/LED</CAPTION>
+      <DESCRIPTION>PB/LED</DESCRIPTION>
+      <NAME>PB/LED</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>HLCK</CAPTION>
+      <DESCRIPTION>HLCK</DESCRIPTION>
+      <NAME>HLCK</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PORTS>
+      <CAPTION>HSNR</CAPTION>
+      <DESCRIPTION>HSNR</DESCRIPTION>
+      <NAME>HSNR</NAME>
+      <TYPE>Other</TYPE>
+    </PORTS>
+    <PRINTERS>
+      <DRIVER>Microsoft XPS Document Writer v4</DRIVER>
+      <NAME>Microsoft XPS Document Writer</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>PORTPROMPT:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft Print To PDF</DRIVER>
+      <NAME>Microsoft Print to PDF</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>PORTPROMPT:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>600x600</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <PRINTERS>
+      <DRIVER>Microsoft Shared Fax Driver</DRIVER>
+      <NAME>Fax</NAME>
+      <NETWORK>0</NETWORK>
+      <PORT>SHRFAX:</PORT>
+      <PRINTPROCESSOR>winprint</PRINTPROCESSOR>
+      <RESOLUTION>200x200</RESOLUTION>
+      <SHARED>0</SHARED>
+      <STATUS>Idle</STATUS>
+    </PRINTERS>
+    <SLOTS>
+      <DESCRIPTION>x16 PCI Express 3 x16</DESCRIPTION>
+      <DESIGNATION>1</DESIGNATION>
+      <NAME>Slot1 / X16PCIEXP</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express 2 x1</DESCRIPTION>
+      <DESIGNATION>2</DESIGNATION>
+      <NAME>Slot2 / X1PCIEXP1</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express 2 x1</DESCRIPTION>
+      <DESIGNATION>3</DESIGNATION>
+      <NAME>Slot3 / X1PCIEXP2</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>x1 PCI Express 2 x1</DESCRIPTION>
+      <DESIGNATION>4</DESIGNATION>
+      <NAME>Slot4 / X1PCIEXP3</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>Slot1 / X16PCIEXP</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>used</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>Slot2 / X1PCIEXP1</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>Slot3 / X1PCIEXP2</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SLOTS>
+      <DESCRIPTION>Connecteur système</DESCRIPTION>
+      <DESIGNATION>Slot4 / X1PCIEXP3</DESIGNATION>
+      <NAME>Connecteur système</NAME>
+      <STATUS>free</STATUS>
+    </SLOTS>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>7-Zip</GUID>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>7-Zip 16.02 (x64)</NAME>
+      <PUBLISHER>Igor Pavlov</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\7-Zip\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>16.02</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>FusionInventory-Agent</GUID>
+      <HELPLINK>https://github.com/fusioninventory/fusioninventory-agent</HELPLINK>
+      <INSTALLDATE>19/12/2017</INSTALLDATE>
+      <NAME>FusionInventory Agent 2.3.21 (x64 edition)</NAME>
+      <PUBLISHER>FusionInventory Team</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\FusionInventory-Agent\Uninstall.exe</UNINSTALL_STRING>
+      <VERSION>2.3.21</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Mozilla Firefox 57.0.2 (x64 fr)</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>Mozilla Firefox 57.0.2 (x64 fr)</GUID>
+      <HELPLINK>https://support.mozilla.org</HELPLINK>
+      <INSTALLDATE>19/12/2017</INSTALLDATE>
+      <NAME>Mozilla Firefox 57.0.2 (x64 fr)</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\Mozilla Firefox\uninstall\helper.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://www.mozilla.org</URL_INFO_ABOUT>
+      <VERSION>57.0.2</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Mozilla Maintenance Service</COMMENTS>
+      <FROM>registry</FROM>
+      <GUID>MozillaMaintenanceService</GUID>
+      <INSTALLDATE>05/07/2017</INSTALLDATE>
+      <NAME>Mozilla Maintenance Service</NAME>
+      <PUBLISHER>Mozilla</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Mozilla Maintenance Service\uninstall.exe"</UNINSTALL_STRING>
+      <VERSION>54.0.1</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>Sublime Text 3_is1</GUID>
+      <INSTALLDATE>05/07/2017</INSTALLDATE>
+      <NAME>Sublime Text Build 3126</NAME>
+      <PUBLISHER>Sublime HQ Pty Ltd</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\Sublime Text 3\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.sublimetext.com</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>VLC media player</GUID>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>VLC media player</NAME>
+      <PUBLISHER>VideoLAN</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\VideoLAN\VLC\uninstall.exe</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.videolan.org/</URL_INFO_ABOUT>
+      <VERSION>2.2.6</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{079FEF6F-9E83-4694-897D-69C30389B772}</GUID>
+      <INSTALLDATE>05/07/2017</INSTALLDATE>
+      <NAME>Python 3.6.1 Add to Path (64-bit)</NAME>
+      <PUBLISHER>Python Software Foundation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{079FEF6F-9E83-4694-897D-69C30389B772}</UNINSTALL_STRING>
+      <VERSION>3.6.1150.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{27133190-078A-4A46-81B0-FF476EAEBF2A}</GUID>
+      <INSTALLDATE>05/07/2017</INSTALLDATE>
+      <NAME>Python 3.6.1 Core Interpreter (64-bit)</NAME>
+      <PUBLISHER>Python Software Foundation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{27133190-078A-4A46-81B0-FF476EAEBF2A}</UNINSTALL_STRING>
+      <VERSION>3.6.1150.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{41626EAD-257F-401F-8531-51C5A7D4CA6C}</GUID>
+      <INSTALLDATE>05/07/2017</INSTALLDATE>
+      <NAME>Python 3.6.1 Documentation (64-bit)</NAME>
+      <PUBLISHER>Python Software Foundation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{41626EAD-257F-401F-8531-51C5A7D4CA6C}</UNINSTALL_STRING>
+      <VERSION>3.6.1150.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{5F9A36CA-767E-4922-84AB-73E61264FE5C}</GUID>
+      <INSTALLDATE>05/07/2017</INSTALLDATE>
+      <NAME>Python 3.6.1 pip Bootstrap (64-bit)</NAME>
+      <PUBLISHER>Python Software Foundation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{5F9A36CA-767E-4922-84AB-73E61264FE5C}</UNINSTALL_STRING>
+      <VERSION>3.6.1150.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{7CB8460F-55AD-4C70-8D04-72947C46C85E}</GUID>
+      <INSTALLDATE>05/07/2017</INSTALLDATE>
+      <NAME>Python 3.6.1 Utility Scripts (64-bit)</NAME>
+      <PUBLISHER>Python Software Foundation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{7CB8460F-55AD-4C70-8D04-72947C46C85E}</UNINSTALL_STRING>
+      <VERSION>3.6.1150.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-002A-0000-1000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Office 64-bit Components 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-002A-0000-1000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-002A-040C-1000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Shared 64-bit MUI (French) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-002A-040C-1000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{9139037B-B991-4022-946F-DAA9A9FDC7EE}</GUID>
+      <INSTALLDATE>05/07/2017</INSTALLDATE>
+      <NAME>Python 3.6.1 Executables (64-bit)</NAME>
+      <PUBLISHER>Python Software Foundation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{9139037B-B991-4022-946F-DAA9A9FDC7EE}</UNINSTALL_STRING>
+      <VERSION>3.6.1150.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{953B4007-8312-48CA-817E-29B43988EB35}</GUID>
+      <INSTALLDATE>05/07/2017</INSTALLDATE>
+      <NAME>Python 3.6.1 Development Libraries (64-bit)</NAME>
+      <PUBLISHER>Python Software Foundation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{953B4007-8312-48CA-817E-29B43988EB35}</UNINSTALL_STRING>
+      <VERSION>3.6.1150.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AC60D963-1CE4-429B-AB29-F973DC55A918}</GUID>
+      <INSTALLDATE>05/07/2017</INSTALLDATE>
+      <NAME>Python 3.6.1 Tcl/Tk Support (64-bit)</NAME>
+      <PUBLISHER>Python Software Foundation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC60D963-1CE4-429B-AB29-F973DC55A918}</UNINSTALL_STRING>
+      <VERSION>3.6.1150.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{B7A716F0-78C1-4CB9-8756-0E51C5DD7622}</GUID>
+      <INSTALLDATE>05/07/2017</INSTALLDATE>
+      <NAME>Python 3.6.1 Standard Library (64-bit)</NAME>
+      <PUBLISHER>Python Software Foundation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{B7A716F0-78C1-4CB9-8756-0E51C5DD7622}</UNINSTALL_STRING>
+      <VERSION>3.6.1150.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{EA457B21-F73E-494C-ACAB-524FDE069978}_is1</GUID>
+      <HELPLINK>https://code.visualstudio.com/</HELPLINK>
+      <INSTALLDATE>30/11/2017</INSTALLDATE>
+      <NAME>Microsoft Visual Studio Code</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files\Microsoft VS Code\unins000.exe"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://code.visualstudio.com/</URL_INFO_ABOUT>
+      <VERSION>1.18.1</VERSION>
+      <VERSION_MAJOR>1</VERSION_MAJOR>
+      <VERSION_MINOR>18</VERSION_MINOR>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>15/12/2017</INSTALLDATE>
+      <NAME>Internet Explorer (64bit)</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>11.786.15063.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>PROPLUS</GUID>
+      <INSTALLDATE>16/11/2017</INSTALLDATE>
+      <NAME>Microsoft Office Professional Plus 2007</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Common Files\Microsoft Shared\OFFICE12\Office Setup Controller\setup.exe" /uninstall PROPLUS /dll OSETUP.DLL</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>VirtualCloneDrive</GUID>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>VirtualCloneDrive</NAME>
+      <PUBLISHER>Elaborate Bytes</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Elaborate Bytes\VirtualCloneDrive\vcd-uninst.exe" /D="C:\Program Files (x86)\Elaborate Bytes\VirtualCloneDrive"</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.elby.ch</URL_INFO_ABOUT>
+      <VERSION>5.5.0.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{2D459556-FEB6-4E29-83B8-7D5AF6EFF871}</GUID>
+      <INSTALLDATE>07/07/2017</INSTALLDATE>
+      <NAME>FOG Service</NAME>
+      <PUBLISHER>FOG</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{2D459556-FEB6-4E29-83B8-7D5AF6EFF871}</UNINSTALL_STRING>
+      <VERSION>0.11.12</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{323AC113-C6CE-4F99-842F-4936332D055A}</GUID>
+      <INSTALLDATE>05/07/2017</INSTALLDATE>
+      <NAME>Python Launcher</NAME>
+      <PUBLISHER>Python Software Foundation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{323AC113-C6CE-4F99-842F-4936332D055A}</UNINSTALL_STRING>
+      <VERSION>3.6.5923.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{02206DCC-0CAF-46BB-8EDC-6C281AA21EFA}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2596787</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office 2007 suites (KB2596787) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {02206DCC-0CAF-46BB-8EDC-6C281AA21EFA}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2596787</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{08F2015D-61E9-4252-9355-AB8D15C73C96}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2881067</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2881067) 32-Bit Edition </NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {08F2015D-61E9-4252-9355-AB8D15C73C96}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2881067</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{0EF0D4FB-BB23-4515-AAEA-1240AC2DA525}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2596912</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office PowerPoint 2007 (KB2596912) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {0EF0D4FB-BB23-4515-AAEA-1240AC2DA525}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2596912</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{1EBDB402-7B61-4224-994D-6882DC69F493}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2986253</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2986253) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {1EBDB402-7B61-4224-994D-6882DC69F493}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2986253</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{26C5C75F-E1FD-4F95-AA29-CA221C3AFEEE}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3114426</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office InfoPath 2007 (KB3114426) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {26C5C75F-E1FD-4F95-AA29-CA221C3AFEEE}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3114426</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{293FB6BE-D3EB-4162-B522-F9108040B9FE}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2596871</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2596871) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {293FB6BE-D3EB-4162-B522-F9108040B9FE}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2596871</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{2B3C041A-A7F2-4A24-968D-4BEB6A123D15}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2597969</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2597969) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {2B3C041A-A7F2-4A24-968D-4BEB6A123D15}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2597969</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{36842896-D83B-4C92-8261-6312B7DEB562}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2880507</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2880507) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {36842896-D83B-4C92-8261-6312B7DEB562}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2880507</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{488CDF0A-098C-4CF5-8552-DA5F2F7B7829}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2956110</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2956110) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {488CDF0A-098C-4CF5-8552-DA5F2F7B7829}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2956110</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{4C1BE82B-9AC0-4AB9-B76D-5467131955E1}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2880508</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2880508) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {4C1BE82B-9AC0-4AB9-B76D-5467131955E1}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2880508</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{5A5EF280-C30D-4B65-B5E9-B2E200C7562A}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4011110</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office Outlook 2007 (KB4011110) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {5A5EF280-C30D-4B65-B5E9-B2E200C7562A}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4011110</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{5BF3F29E-C924-48BB-AA3C-EA2BA14B7027}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/2596904</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2596904) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {5BF3F29E-C924-48BB-AA3C-EA2BA14B7027}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/2596904</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{6B4A3804-666A-4DD8-84A7-B97701416784}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2850022</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2850022) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {6B4A3804-666A-4DD8-84A7-B97701416784}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2850022</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{6E107EB7-8B55-48BF-ACCB-199F86A2CD93}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2526308</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Microsoft Office 2007 Service Pack 3 (SP3)</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {6E107EB7-8B55-48BF-ACCB-199F86A2CD93}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2526308</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{7C3337E5-1294-4270-A64F-DCEF812159E5}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2965286</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office 2007 suites (KB2965286) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {7C3337E5-1294-4270-A64F-DCEF812159E5}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2965286</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{7C9DD3C0-67BF-4A96-A209-4A3FB6C612CA}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4011608</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office Word 2007 (KB4011608) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {7C9DD3C0-67BF-4A96-A209-4A3FB6C612CA}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4011608</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{7F774C8A-B1CE-486C-A64E-EA96AE48B813}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2596614</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office Access 2007 (KB2596614) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {7F774C8A-B1CE-486C-A64E-EA96AE48B813}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2596614</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{7FE99CC2-FBE5-422F-A6FB-49E0D8AFE919}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2596915</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office Visio Viewer 2007 (KB2596915) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {7FE99CC2-FBE5-422F-A6FB-49E0D8AFE919}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2596915</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{800D1A82-D1B0-4ED4-89B4-C666B570ABA5}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2984943</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2984943) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {800D1A82-D1B0-4ED4-89B4-C666B570ABA5}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2984943</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{81769578-260D-428A-90BD-BDC1AD58061A}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3213642</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office PowerPoint 2007 (KB3213642) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {81769578-260D-428A-90BD-BDC1AD58061A}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3213642</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{8C829BE5-F60C-417A-89E3-9A1B427320F2}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3115461</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office Outlook 2007 Junk Email Filter (KB3115461) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {8C829BE5-F60C-417A-89E3-9A1B427320F2}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3115461</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{8D2CDFAB-0079-43CC-A289-2F7A67F0A4DE}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/3085549</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB3085549) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {8D2CDFAB-0079-43CC-A289-2F7A67F0A4DE}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/3085549</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{8F311D6C-D8DD-4C32-9457-1A129CABD1A5}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2687440</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office InfoPath 2007 (KB2687440) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {8F311D6C-D8DD-4C32-9457-1A129CABD1A5}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2687440</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{962B4B3F-E8E5-4E11-B64B-1885D7F41BAA}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4011203</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office Publisher 2007 (KB4011203) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {962B4B3F-E8E5-4E11-B64B-1885D7F41BAA}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4011203</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{A024FC7B-77DE-45DE-A058-1C049A17BFB3}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2596620</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office 2007 suites (KB2596620) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {A024FC7B-77DE-45DE-A058-1C049A17BFB3}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2596620</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{B145DBBB-7778-4A5D-9D2B-DA6569F02391}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2596754</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2596754) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {B145DBBB-7778-4A5D-9D2B-DA6569F02391}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2596754</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{B7727B4D-5EA3-4C11-9D30-15E47616DCAF}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2596825</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2596825) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {B7727B4D-5EA3-4C11-9D30-15E47616DCAF}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2596825</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{BF11577A-6876-45AA-86C9-2BA4CFB8B019}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2825645</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2825645) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {BF11577A-6876-45AA-86C9-2BA4CFB8B019}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2825645</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{C444285D-5E4F-48A4-91DD-47AAAA68E92D}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/967642</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Update for 2007 Microsoft Office System (KB967642)</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {C444285D-5E4F-48A4-91DD-47AAAA68E92D}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/967642</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{CF128159-05DC-4CF8-91CF-381F90CBD24F}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4011205</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office Compatibility Pack Service Pack 3 (KB4011205) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {CF128159-05DC-4CF8-91CF-381F90CBD24F}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4011205</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{DF2F5DAC-93D7-434B-96B1-EAF4D891AD24}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2596650</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2596650) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {DF2F5DAC-93D7-434B-96B1-EAF4D891AD24}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2596650</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{E006DB40-5BFE-4AB3-BD50-D21349AF31D7}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4011265</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office Compatibility Pack Service Pack 3 (KB4011265) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {E006DB40-5BFE-4AB3-BD50-D21349AF31D7}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4011265</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{E0B68302-FC81-4D98-94F6-7D120B08C3AC}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4011199</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office Excel 2007 (KB4011199) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {E0B68302-FC81-4D98-94F6-7D120B08C3AC}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4011199</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{E0CB4BB2-23A7-4416-ADDF-B37BCF0B344C}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4011063</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office 2007 suites (KB4011063) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {E0CB4BB2-23A7-4416-ADDF-B37BCF0B344C}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4011063</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{E34960DB-2A93-45DB-A208-02650F7AB09C}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2596792</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2596792) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {E34960DB-2A93-45DB-A208-02650F7AB09C}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2596792</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{E359D786-B101-4545-B8AB-8652323CF3CA}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2984938</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB2984938) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {E359D786-B101-4545-B8AB-8652323CF3CA}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2984938</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{E39085A9-74AC-465D-8240-E7AF57F3BA44}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3213649</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office 2007 suites (KB3213649) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {E39085A9-74AC-465D-8240-E7AF57F3BA44}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3213649</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{E9A82945-BA29-4EE8-8F2A-2F49545E9CF2}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2767916</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office 2007 suites (KB2767916) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {E9A82945-BA29-4EE8-8F2A-2F49545E9CF2}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2767916</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0011-0000-0000-0000000FF1CE}_PROPLUS_{F5E44FF6-5802-4FCC-B0CA-6C2C0C455CA3}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3213641</HELPLINK>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB3213641) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0011-0000-0000-0000000FF1CE} /uninstall {F5E44FF6-5802-4FCC-B0CA-6C2C0C455CA3}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3213641</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0015-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Access MUI (French) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-0015-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0016-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Excel MUI (French) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-0016-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0016-040C-0000-0000000FF1CE}_PROPLUS_{B761869A-B85C-40E2-994C-A1CE78AC8F2C}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/963678</HELPLINK>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Mise à jour Microsoft Office Excel 2007 Help  (KB963678)</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0016-040C-0000-0000000FF1CE} /uninstall {B761869A-B85C-40E2-994C-A1CE78AC8F2C}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/963678</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0018-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office PowerPoint MUI (French) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-0018-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0018-040C-0000-0000000FF1CE}_PROPLUS_{C3DCA38E-005E-41BA-A52A-7C3429F351C3}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/963669</HELPLINK>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Mise à jour Microsoft Office Powerpoint 2007 Help  (KB963669)</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-0018-040C-0000-0000000FF1CE} /uninstall {C3DCA38E-005E-41BA-A52A-7C3429F351C3}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/963669</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0019-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Publisher MUI (French) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-0019-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-001A-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Outlook MUI (French) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-001A-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-001A-040C-0000-0000000FF1CE}_PROPLUS_{51EFB347-1F3D-4BAC-8B79-F056B904FE21}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/963677</HELPLINK>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Mise à jour Microsoft Office Outlook 2007 Help  (KB963677)</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-001A-040C-0000-0000000FF1CE} /uninstall {51EFB347-1F3D-4BAC-8B79-F056B904FE21}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/963677</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-001A-040C-0000-0000000FF1CE}_PROPLUS_{B83A8864-A85D-437E-9D4C-27350765BF46}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2687404</HELPLINK>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office Outlook 2007 (KB2687404) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-001A-040C-0000-0000000FF1CE} /uninstall {B83A8864-A85D-437E-9D4C-27350765BF46}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2687404</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-001B-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Word MUI (French) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-001B-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-001B-040C-0000-0000000FF1CE}_PROPLUS_{81536A04-DBFB-4DB3-978F-0F284590C223}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/963665</HELPLINK>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Mise à jour Microsoft Office Word 2007 Help  (KB963665)</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>Microsoft</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-001B-040C-0000-0000000FF1CE} /uninstall {81536A04-DBFB-4DB3-978F-0F284590C223}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/963665</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-001F-0401-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proof (Arabic) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-001F-0401-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-001F-0401-0000-0000000FF1CE}_PROPLUS_{3E8EA473-ECCE-405F-A9CA-59446AEADD3A}</GUID>
+      <HELPLINK>http://support.microsoft.com/kb/2526308</HELPLINK>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proofing Tools 2007 Service Pack 3 (SP3)</NAME>
+      <NO_REMOVE>1</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-001F-0401-0000-0000000FF1CE} /uninstall {3E8EA473-ECCE-405F-A9CA-59446AEADD3A}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://support.microsoft.com/kb/2526308</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-001F-0407-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proof (German) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-001F-0407-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-001F-0409-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proof (English) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-001F-0409-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-001F-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proof (French) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-001F-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-001F-0413-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proof (Dutch) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-001F-0413-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-001F-0C0A-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proof (Spanish) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-001F-0C0A-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-002C-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office Proofing (French) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-002C-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.4518.1014</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-0044-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office InfoPath MUI (French) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-0044-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-006E-040C-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>30/11/2017</INSTALLDATE>
+      <NAME>Microsoft Office Shared MUI (French) 2007</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{90120000-006E-040C-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>12.0.6612.1000</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-006E-040C-0000-0000000FF1CE}_PROPLUS_{54689E6A-2CDC-4B4F-B2FD-78C129EC68B3}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/3213646</HELPLINK>
+      <INSTALLDATE>30/11/2017</INSTALLDATE>
+      <NAME>Update for Microsoft Office 2007 suites (KB3213646) 32-Bit Edition</NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-006E-040C-0000-0000000FF1CE} /uninstall {54689E6A-2CDC-4B4F-B2FD-78C129EC68B3}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/3213646</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90120000-006E-040C-0000-0000000FF1CE}_PROPLUS_{CD73F4AA-E06A-47A5-AE1F-201A8162A3F8}</GUID>
+      <HELPLINK>https://support.microsoft.com/kb/4011604</HELPLINK>
+      <INSTALLDATE>30/11/2017</INSTALLDATE>
+      <NAME>Security Update for Microsoft Office 2007 suites (KB4011604) 32-Bit Edition </NAME>
+      <NO_REMOVE>0</NO_REMOVE>
+      <PUBLISHER>MicrosoftH</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>msiexec /package {90120000-006E-040C-0000-0000000FF1CE} /uninstall {CD73F4AA-E06A-47A5-AE1F-201A8162A3F8}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>https://support.microsoft.com/kb/4011604</URL_INFO_ABOUT>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{90140000-2005-0000-0000-0000000FF1CE}</GUID>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Microsoft Office File Validation Add-In</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{90140000-2005-0000-0000-0000000FF1CE}</UNINSTALL_STRING>
+      <VERSION>14.0.5130.5003</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-0804-1033-1959-001824245926}</GUID>
+      <HELPLINK>http://www.adobe.com/support/main.html</HELPLINK>
+      <INSTALLDATE>14/11/2017</INSTALLDATE>
+      <NAME>Adobe Refresh Manager</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>system_component</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-0804-1033-1959-001824245926}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>1.8.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <COMMENTS/>
+      <FROM>registry</FROM>
+      <GUID>{AC76BA86-7AD7-1036-7B44-AC0F074E4100}</GUID>
+      <HELPLINK>http://www.adobe.com/fr/support/main.html</HELPLINK>
+      <INSTALLDATE>29/11/2017</INSTALLDATE>
+      <NAME>Adobe Acrobat Reader DC - Français</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /I{AC76BA86-7AD7-1036-7B44-AC0F074E4100}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>18.009.20050</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{C4E4BF86-4E27-4B8B-8BF9-A5BF1C7573A4}</GUID>
+      <HELPLINK>http://www.adobe.com/go/flashplayer_support/</HELPLINK>
+      <INSTALLDATE>03/07/2017</INSTALLDATE>
+      <NAME>Adobe Flash Player 21 NPAPI</NAME>
+      <PUBLISHER>Adobe Systems Incorporated</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>MsiExec.exe /X{C4E4BF86-4E27-4B8B-8BF9-A5BF1C7573A4}</UNINSTALL_STRING>
+      <URL_INFO_ABOUT>http://www.adobe.com</URL_INFO_ABOUT>
+      <VERSION>21.0.0.242</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F0E3AD40-2BBD-4360-9C76-B9AC9A5886EA}</GUID>
+      <INSTALLDATE>04/07/2017</INSTALLDATE>
+      <NAME>Intel(R) Processor Graphics</NAME>
+      <PUBLISHER>Intel Corporation</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>"C:\Program Files (x86)\Intel\Intel(R) Processor Graphics\Uninstall\setup.exe" -uninstall</UNINSTALL_STRING>
+      <VERSION>21.20.16.4551</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <GUID>{F132AF7F-7BCA-4EDE-8A7C-958108FE7DBC}</GUID>
+      <INSTALLDATE>04/07/2017</INSTALLDATE>
+      <NAME>Realtek High Definition Audio Driver</NAME>
+      <PUBLISHER>Realtek Semiconductor Corp.</PUBLISHER>
+      <SYSTEM_CATEGORY>application</SYSTEM_CATEGORY>
+      <UNINSTALL_STRING>C:\Program Files\Realtek\Audio\HDA\RtlUpd64.exe -r -m -nrg2709</UNINSTALL_STRING>
+      <VERSION>6.0.1.7977</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>i586</ARCH>
+      <FROM>registry</FROM>
+      <INSTALLDATE>15/12/2017</INSTALLDATE>
+      <NAME>Internet Explorer</NAME>
+      <PUBLISHER>Microsoft Corporation</PUBLISHER>
+      <VERSION>11.786.15063.0</VERSION>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/06/2017</INSTALLDATE>
+      <NAME>KB4022405</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>08/06/2017</INSTALLDATE>
+      <NAME>KB4022730</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>16/11/2017</INSTALLDATE>
+      <NAME>KB4048951</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>16/11/2017</INSTALLDATE>
+      <NAME>KB4049011</NAME>
+      <RELEASE_TYPE>Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>09/11/2017</INSTALLDATE>
+      <NAME>KB4049179</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>14/12/2017</INSTALLDATE>
+      <NAME>KB4053577</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOFTWARES>
+      <ARCH>x86_64</ARCH>
+      <COMMENTS>Security Update</COMMENTS>
+      <FROM>WMI</FROM>
+      <INSTALLDATE>19/12/2017</INSTALLDATE>
+      <NAME>KB4053580</NAME>
+      <RELEASE_TYPE>Security Update</RELEASE_TYPE>
+      <SYSTEM_CATEGORY>security_update</SYSTEM_CATEGORY>
+    </SOFTWARES>
+    <SOUNDS>
+      <CAPTION>Realtek High Definition Audio</CAPTION>
+      <DESCRIPTION>Realtek High Definition Audio</DESCRIPTION>
+      <MANUFACTURER>Realtek</MANUFACTURER>
+      <NAME>Realtek High Definition Audio</NAME>
+    </SOUNDS>
+    <SOUNDS>
+      <CAPTION>AMD High Definition Audio Device</CAPTION>
+      <DESCRIPTION>AMD High Definition Audio Device</DESCRIPTION>
+      <MANUFACTURER>Advanced Micro Devices</MANUFACTURER>
+      <NAME>AMD High Definition Audio Device</NAME>
+    </SOUNDS>
+    <SOUNDS>
+      <CAPTION>Son Intel(R) pour écrans</CAPTION>
+      <DESCRIPTION>Son Intel(R) pour écrans</DESCRIPTION>
+      <MANUFACTURER>Intel(R) Corporation</MANUFACTURER>
+      <NAME>Son Intel(R) pour écrans</NAME>
+    </SOUNDS>
+    <STORAGES>
+      <DESCRIPTION>Disk drive</DESCRIPTION>
+      <DISKSIZE>500107</DISKSIZE>
+      <FIRMWARE>HPH3</FIRMWARE>
+      <INTERFACE>IDE</INTERFACE>
+      <MANUFACTURER>(Standard disk drives)</MANUFACTURER>
+      <MODEL>ST500DM002-1SB10A</MODEL>
+      <NAME>\\.\PHYSICALDRIVE0</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIAL>WA40XWVE</SERIAL>
+      <SERIALNUMBER>WA40XWVE</SERIALNUMBER>
+      <TYPE>Fixed hard disk media</TYPE>
+    </STORAGES>
+    <STORAGES>
+      <DESCRIPTION>CD-ROM Drive</DESCRIPTION>
+      <MANUFACTURER>(Standard CD-ROM drives)</MANUFACTURER>
+      <MODEL>hp TSST DVDRW  SU-208HB</MODEL>
+      <NAME>hp TSST DVDRW  SU-208HB</NAME>
+      <SCSI_COID>0</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIALNUMBER/>  <TYPE>DVD Writer</TYPE>
+    </STORAGES>
+    <STORAGES>
+      <DESCRIPTION>CD-ROM Drive</DESCRIPTION>
+      <MANUFACTURER>(Standard CD-ROM drives)</MANUFACTURER>
+      <MODEL>ELBY CLONEDRIVE SCSI CdRom Device</MODEL>
+      <NAME>ELBY CLONEDRIVE SCSI CdRom Device</NAME>
+      <SCSI_COID>1</SCSI_COID>
+      <SCSI_LUN>0</SCSI_LUN>
+      <SCSI_UNID>0</SCSI_UNID>
+      <SERIALNUMBER/>  <TYPE>DVD-ROM</TYPE>
+    </STORAGES>
+    <USBDEVICES>
+      <CAPTION>Optical Mouse</CAPTION>
+      <MANUFACTURER>Hewlett-Packard</MANUFACTURER>
+      <NAME>Optical Mouse</NAME>
+      <PRODUCTID>134A</PRODUCTID>
+      <VENDORID>03F0</VENDORID>
+    </USBDEVICES>
+    <USBDEVICES>
+      <CAPTION>Elite Keyboard</CAPTION>
+      <MANUFACTURER>Hewlett-Packard</MANUFACTURER>
+      <NAME>Elite Keyboard</NAME>
+      <PRODUCTID>034A</PRODUCTID>
+      <VENDORID>03F0</VENDORID>
+    </USBDEVICES>
+    <USERS>
+      <DOMAIN>SIO</DOMAIN>
+      <LOGIN>vstanislas</LOGIN>
+    </USERS>
+    <VERSIONCLIENT>FusionInventory-Agent_v2.3.21</VERSIONCLIENT>
+    <VERSIONPROVIDER>
+      <COMMENTS>Provided by Teclib</COMMENTS>
+      <COMMENTS>Installer built with Appveyor on Mon Jul 31 16:08:56 UTC 2017</COMMENTS>
+      <NAME>FusionInventory</NAME>
+      <PERL_EXE>C:\Program Files\FusionInventory-Agent\perl\bin\fusioninventory-agent.exe</PERL_EXE>
+      <PERL_VERSION>v5.24.1</PERL_VERSION>
+      <PROGRAM>fusioninventory-agent: task Inventory</PROGRAM>
+      <VERSION>2.3.21</VERSION>
+    </VERSIONPROVIDER>
+    <VIDEOS>
+      <CHIPSET>Intel(R) HD Graphics Family</CHIPSET>
+      <NAME>Intel(R) HD Graphics 530</NAME>
+      <RESOLUTION>1366x768</RESOLUTION>
+    </VIDEOS>
+    <VIDEOS>
+      <CHIPSET>AMD Radeon Graphics Processor (0x682B)</CHIPSET>
+      <NAME>AMD Radeon (TM) R9 350</NAME>
+      <RESOLUTION>1366x768</RESOLUTION>
+    </VIDEOS>
+    <VIRTUALMACHINES>
+      <MEMORY>4096</MEMORY>
+      <NAME>STANISLAS R108P17HvCi</NAME>
+      <STATUS>shutdown</STATUS>
+      <SUBSYSTEM>MS HyperV</SUBSYSTEM>
+      <UUID>B3CE491E-2038-46FA-937A-EF0A2992E52C</UUID>
+      <VCPU>2</VCPU>
+      <VMTYPE>HyperV</VMTYPE>
+    </VIRTUALMACHINES>
+    <VIRTUALMACHINES>
+      <MEMORY>4096</MEMORY>
+      <NAME>STANISLAS R108P17HvVs</NAME>
+      <STATUS>shutdown</STATUS>
+      <SUBSYSTEM>MS HyperV</SUBSYSTEM>
+      <UUID>A8C36A10-2C74-4E0D-9614-335ECF58F22C</UUID>
+      <VCPU>2</VCPU>
+      <VMTYPE>HyperV</VMTYPE>
+    </VIRTUALMACHINES>
+  </CONTENT>
+  <DEVICEID>r108p17.sio.jjr-2017-12-19-09-30-40</DEVICEID>
+  <QUERY>INVENTORY</QUERY>
+</REQUEST>

@@ -1,0 +1,79 @@
+Test
+Test
+Test
+2017-11-07 09:19:37 [2@R108P07HVCI]
+  From Toolbox::deprecated() in C:\wamp64\www\glpi\inc\toolbox.class.php line 477
+  Zend\Loader\SplAutoloader has been dropped from GLPI. 
+2017-11-07 09:19:37 [2@R108P07HVCI]
+  Backtrace :
+  inc\toolbox.class.php:478                          Toolbox::backtrace()
+  inc\autoload.function.php:313                      Toolbox::deprecated()
+  :                                                  glpi_autoload()
+  plugins\fusioninventory\lib\autoload.php:6         spl_autoload_call()
+  plugins\fusioninventory\setup.php:61               include_once()
+  inc\plugin.class.php:257                           include_once()
+  inc\plugin.class.php:398                           Plugin->checkStates()
+  front\plugin.php:95                                Plugin->listPlugins()
+2017-11-28 09:58:05 [@R108P07HVCI]
+  *** PHP Warning(2): Cannot modify header information - headers already sent
+  Backtrace :
+  inc\toolbox.class.php:586                          
+  :                                                  Toolbox::userErrorHandlerDebug()
+  plugins\fusioninventory\front\communication.php:73 header()
+  plugins\fusioninventory\index.php:59               include_once()
+2017-11-28 09:58:05 [6@R108P07HVCI]
+  *** PHP Warning(2): Cannot modify header information - headers already sent
+  Backtrace :
+  :                                                  
+  ...fusioninventory\inc\communication.class.php:127 header()
+  ...fusioninventory\inc\communication.class.php:479 PluginFusioninventoryCommunication->sendMessage()
+  plugins\fusioninventory\front\communication.php:93 PluginFusioninventoryCommunication->handleOCSCommunication()
+  plugins\fusioninventory\index.php:59               include_once()
+2017-11-29 12:35:53 [@R108P07HVCI]
+  *** PHP Warning(2): Cannot modify header information - headers already sent
+  Backtrace :
+  inc\toolbox.class.php:586                          
+  :                                                  Toolbox::userErrorHandlerDebug()
+  plugins\fusioninventory\front\communication.php:73 header()
+  plugins\fusioninventory\index.php:59               include_once()
+2017-11-29 12:35:54 [6@R108P07HVCI]
+  *** PHP Warning(2): Cannot modify header information - headers already sent
+  Backtrace :
+  :                                                  
+  ...fusioninventory\inc\communication.class.php:127 header()
+  ...fusioninventory\inc\communication.class.php:479 PluginFusioninventoryCommunication->sendMessage()
+  plugins\fusioninventory\front\communication.php:93 PluginFusioninventoryCommunication->handleOCSCommunication()
+  plugins\fusioninventory\index.php:59               include_once()
+2017-11-30 13:11:17 [@R108P07HVCI]
+  *** PHP Warning(2): Cannot modify header information - headers already sent
+  Backtrace :
+  inc\toolbox.class.php:586                          
+  :                                                  Toolbox::userErrorHandlerDebug()
+  plugins\fusioninventory\front\communication.php:73 header()
+  plugins\fusioninventory\index.php:59               include_once()
+2017-11-30 13:11:19 [6@R108P07HVCI]
+  *** PHP Warning(2): Cannot modify header information - headers already sent
+  Backtrace :
+  :                                                  
+  ...fusioninventory\inc\communication.class.php:127 header()
+  ...fusioninventory\inc\communication.class.php:479 PluginFusioninventoryCommunication->sendMessage()
+  plugins\fusioninventory\front\communication.php:93 PluginFusioninventoryCommunication->handleOCSCommunication()
+  plugins\fusioninventory\index.php:59               include_once()
+2017-12-01 08:51:57 [@R108P07HVCI]
+  *** PHP Warning(2): Cannot modify header information - headers already sent
+  Backtrace :
+  inc\toolbox.class.php:586                          
+  :                                                  Toolbox::userErrorHandlerDebug()
+  plugins\fusioninventory\front\communication.php:73 header()
+  plugins\fusioninventory\index.php:59               include_once()
+2017-12-01 08:52:00 [6@R108P07HVCI]
+  *** PHP Warning(2): Cannot modify header information - headers already sent
+  Backtrace :
+  :                                                  
+  ...fusioninventory\inc\communication.class.php:127 header()
+  ...fusioninventory\inc\communication.class.php:479 PluginFusioninventoryCommunication->sendMessage()
+  plugins\fusioninventory\front\communication.php:93 PluginFusioninventoryCommunication->handleOCSCommunication()
+  plugins\fusioninventory\index.php:59               include_once()
+2017-12-19 09:18:36 [2@R108P07HVCI]
+  From DBmysql::optimize_tables() in C:\wamp64\www\glpi\inc\dbmysql.class.php line 558
+  Cannot launch automatic action : crashed tables detected 
